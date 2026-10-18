@@ -9,6 +9,23 @@ Experience the live, interactive app without any local setup:
 
 👉 **[Launch Student Productivity Dashboard](https://prozuhur96.github.io/Student-Productivity-Dashboard/)**
 
+---
+
+
+## 📑 Table of Contents
+
+- [🔗 Live Demo](#-live-demo)
+- [📸 Interface Screenshots](#-interface-screenshots)
+- [✨ Features](#-features)
+- [🛠️ Tech Stack](#-tech-stack)
+- [📁 Project Structure](#-project-structure)
+- [🚀 Setup & Installation](#-setup--installation)
+- [🔮 Future Roadmap](#-future-roadmap)
+- [🤝 Contributing & Feedback](#-contributing--feedback)
+- [📝 Author](#-author)
+
+---
+
 
 ## 📸 Interface Screenshots
 
